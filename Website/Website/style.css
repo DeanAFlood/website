@@ -1,0 +1,57 @@
+﻿html {
+    height: 100%;
+}
+body {
+    background-image: url(https://instituteoftechnol663-my.sharepoint.com/personal/c00261418_itcarlow_ie/Documents/HCI/Website/Website/website%20images/ENDWALKER.jpg);
+    background-repeat: repeat-y;
+    background-size: 1700px 800px; 
+}
+#intro
+{
+    background-color: navy;
+    padding: 10px;
+    border: 2px solid #000000;
+   
+}
+.hyperlinks {
+    background-color: yellow;
+    border: 2px solid #000000;
+    padding: 8px;
+    width: 250px;
+}
+p{
+    color: white;
+}
+h1{
+    color: white;
+}
+h2
+{
+    color: yellow;
+}
+.galleryBackground {
+    background-image: url(file:///G:/Website/website%20images/Zenos.png);
+    background-repeat: repeat-y;
+    background-size: 1700px 800px;
+}
+div.gallery {
+
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+    div.gallery:hover {
+        border: 1px solid #777;
+    }
+
+    div.gallery img {
+        width: 100%;
+        height: auto;
+    }
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
